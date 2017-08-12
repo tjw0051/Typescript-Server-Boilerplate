@@ -1,6 +1,7 @@
+![TypeScript](http://www.sharepointknight.com/wp-content/uploads/2016/10/typescript-logo.png)
 
 # Typescript Server Boilerplate
-![TypeScript](http://www.sharepointknight.com/wp-content/uploads/2016/10/typescript-logo.png)
+
 Boilerplate for setting up a node server with typescript, tslint, mocha and docker.
 
 ## Setup
